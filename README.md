@@ -103,6 +103,4 @@ Future versions could include:
 
 Feel free to submit issues or pull requests if you want to improve this project!
 
-### License
 
-This project is licensed under the MIT License .
